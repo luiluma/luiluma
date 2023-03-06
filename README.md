@@ -1,24 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jcamilovillah.jcamilovillah">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Luiluma">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Camilo+Villa+%F0%9F%9A%80;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Luisa%F0%9F%9A%80;Nice+to+meet+you!">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/jcamilovillah/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/luma-lopez-791491268/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.twitter.com/jcamilovillah" title="Twitter Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png"> Twitter</a></code>
   <code><a href="https://juancamilovilla.medium.com/" title="Medium Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"> Medium</a></code>
   <code><a href="https://www.instagram.com/jcamilovillah" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Juan Camilo Villa, Software Developer from Colombia
+  Hello, My Name is Luisa, I´m from Colombia.
   <br>
-  <br>
-  💻 I'm currently working at <a href="https://www.mercadolibre.com.co/institucional/">Mercado Libre</a>
   <br>
   💡 I love writing code and learn anythings about it
   <br>
@@ -34,27 +32,12 @@
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/c.svg"></code>
-  <code><img title="Java" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/java-original.svg"></code>
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png?raw=true"></code>
-  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png?raw=true"></code>
-  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png?raw=true"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/html5.svg"></code>
+  <code><img title="HTML" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/sass.svg"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/git-original.svg"></code>
-  <code><img title="Linux Systems" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
-  <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-  <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/json.svg"></code>
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/mysql.svg"></code>
-  <code><img title="Bash" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></code>
-  <code><img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
-  <code><img title="Docker" height="25" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-  <code><img title="Kubernetes" height="25" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png"></code>
 
 </p>
 <hr>
