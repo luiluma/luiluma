@@ -32,5 +32,8 @@
   and developing technical skills.</p>
     <p> I worked on individual and team projects to improve my skills in different programming languages,
     such as Python and C.</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C351B4&width=435&lines=Thank+You+For+Visiting+My+Repository" alt="Typing SVG" /></a>
