@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Luiluma">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa%+Welcome+To+My+Repo🔥">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa+Welcome+To+My+Repo!🔥">
   </a>
 </h1>
 
@@ -17,7 +16,6 @@
   <br>
 </p>
 
-<hr>
 <h2 align="center"> Languages 💬</h2>
 <br>
 <p align="center">
@@ -31,9 +29,8 @@
 </p>
 <hr>
 
-<h2 align="center">📚 Experience 📚</h2>
-<br>
-<h2> 📫 About Me </h2>
+<h2 align="center">📚 About Me 📚</h2>
+<h2> 📫 Profile </h2>
     <p> - Holberton School, Programming Student </p
     <p> - I participated in a full-time intensive training program focused on learning software programming
   and developing technical skills.</p>
@@ -41,5 +38,4 @@
     such as Python and C.</p>
   <br>
 
-<hr>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71352&width=435&lines=Thank+You+for+visiting+my+profile+%3C3)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=801196&background=FFFFFF00&width=435&lines=Thank+You+For+Visiting+My+Repository" alt="Typing SVG" /></a>
