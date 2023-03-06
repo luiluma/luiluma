@@ -1,7 +1,6 @@
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=802DC9&background=FFFFFF00&width=435&lines=Hello%2C+I%C2%B4m+Luisa+%3A3" alt="Typing SVG" /></a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=802DC9&background=FFFFFF00&center=true&multiline=true&width=435&lines=Hello%2C+I%C2%B4m+Luisa+%3A3;Nice+to+Meet+You!" alt="Typing SVG" /></a>
+<br>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/luma-lopez-791491268/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
