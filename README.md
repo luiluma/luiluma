@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa%F0%🔥">
   </a>
 </h1>
 
@@ -13,12 +13,12 @@
 </h5>
 <br>
 <p align="center">
-  Hello, My Name is Luisa, I´m from Colombia.
+  Hello, My Name is Luisa, I´m from Colombia 📍.
   <br>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages 🔥</h2>
+<h2 align="center"> Languages 💬</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/c.svg"></code>
@@ -31,37 +31,15 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Experience ⚡</h2>
+<h2 align="center">📚 Experience 📚</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <br>
-    💡 Holberton School, Programming Student
-    <br>
-    📚 I participated in a full-time intensive training program focused on learning software programming and developing technical skills.</br>
-    <br>
-  </div>
+## 📫 About Me
+    - Holberton School, Programming Student
+    - I participated in a full-time intensive training program focused on learning software programming
+    and developing technical skills.
+    - I worked on individual and team projects to improve my skills in different programming languages,
+    such as Python and C.
   <br>
-</p>
 
 <hr>
-
-
-<!--
-**luiluma/luiluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71352&width=435&lines=Thank+You+for+visiting+my+profile+%3C3)](https://git.io/typing-svg)
