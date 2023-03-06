@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa%F0%🔥">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa%+Welcome+To+My+Repo🔥">
   </a>
 </h1>
 
@@ -33,12 +33,12 @@
 
 <h2 align="center">📚 Experience 📚</h2>
 <br>
-## 📫 About Me
-    - Holberton School, Programming Student
-    - I participated in a full-time intensive training program focused on learning software programming
-    and developing technical skills.
-    - I worked on individual and team projects to improve my skills in different programming languages,
-    such as Python and C.
+<h2> 📫 About Me </h2>
+    <p> - Holberton School, Programming Student </p
+    <p> - I participated in a full-time intensive training program focused on learning software programming
+  and developing technical skills.</p>
+    <p> - I worked on individual and team projects to improve my skills in different programming languages,
+    such as Python and C.</p>
   <br>
 
 <hr>
