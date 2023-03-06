@@ -14,6 +14,7 @@
 </p>
 <br>
 <h2 align="center"> Languages 💬</h2>
+<hr>
 <p align="center">
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/c.svg"></code>
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
@@ -23,9 +24,11 @@
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
 
 </p>
+<br>
 <hr>
 
 <h2 align="center">📚 About Me 📚</h2>
+<br>
     <p> Holberton School, Programming Student </p
     <p> I participated in a full-time intensive training program focused on learning software programming
   and developing technical skills.</p>
