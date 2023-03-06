@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa+Welcome+To+My+Repo!🔥">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa!🔥">
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hello, My Name is Luisa, I´m from Colombia 📍.
+  Hello, Welcome To My Repository, I´m from Colombia! 📍.
   <br>
 </p>
 
@@ -30,12 +30,10 @@
 <hr>
 
 <h2 align="center">📚 About Me 📚</h2>
-<h2> 📫 Profile </h2>
-    <p> - Holberton School, Programming Student </p
-    <p> - I participated in a full-time intensive training program focused on learning software programming
+    <p> Holberton School, Programming Student </p
+    <p> I participated in a full-time intensive training program focused on learning software programming
   and developing technical skills.</p>
-    <p> - I worked on individual and team projects to improve my skills in different programming languages,
+    <p> I worked on individual and team projects to improve my skills in different programming languages,
     such as Python and C.</p>
-  <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=801196&background=FFFFFF00&width=435&lines=Thank+You+For+Visiting+My+Repository" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=801196&background=FFFFFF00&width=435&lines=Thank+You+For+Visiting+My+Repository❤️!" alt="Typing SVG" /></a>
