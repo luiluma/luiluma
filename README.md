@@ -12,9 +12,8 @@
   Hello, Welcome To My Repository, I´m from Colombia! 📍.
   <br>
 </p>
-
-<h2 align="center"> Languages 💬</h2>
 <br>
+<h2 align="center"> Languages 💬</h2>
 <p align="center">
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/c.svg"></code>
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
@@ -32,8 +31,5 @@
   and developing technical skills.</p>
     <p> I worked on individual and team projects to improve my skills in different programming languages,
     such as Python and C.</p>
-    <p></p>
-    <p></p>
-    <p></p>
-
+    <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C351B4&width=435&lines=Thank+You+For+Visiting+My+Repository" alt="Typing SVG" /></a>
