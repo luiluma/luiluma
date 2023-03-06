@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hello%2C+I'm+Luisa!🔥">
   </a>
 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C351B4&width=435&lines=Thank+You+For+Visiting+My+Repository" alt="Typing SVG" /></a>
 
 <h5 align="center">
   <code>
